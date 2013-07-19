@@ -13,7 +13,7 @@ Do read the above.
 1. Create a rails application
 
     ```
-    rhc app create railsapp ruby-1.9 postgresql-8.4 \
+    rhc app create railsapp ruby-1.9 postgresql-9.2 \
     --from-code https://github.com/BanzaiMan/openshift-rails-example-postgresql.git
     ```
 
